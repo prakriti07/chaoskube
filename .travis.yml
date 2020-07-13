@@ -3,6 +3,9 @@ dist: trusty
 os:
 - linux
 
+arch:
+- amd64
+- arm64
 language: go
 
 go:
