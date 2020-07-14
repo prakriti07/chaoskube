@@ -10,7 +10,7 @@ language: go
 
 go:
 - "1.14"
-- tip
+- 1.15beta1
 
 env:
 - GO111MODULE=on
